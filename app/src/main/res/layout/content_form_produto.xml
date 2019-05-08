@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.ecomerce.rwm.projetopdm.FormProdutoActivity"
+    tools:showIn="@layout/activity_form_produto">
+
+    <EditText
+        android:id="@+id/edtValorProduto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/lbl_valor_produto"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/edtDescricaoProduto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/lbl_descricao"
+        android:inputType="textMultiLine" />
+
+    <EditText
+        android:id="@+id/edtImagemProduto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/lbl_caminho_imagem"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/btn_Variael"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/action_salvar" />
+
+
+</LinearLayout>

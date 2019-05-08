@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">E Comerce</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_login">Login User</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_login_adm">Login Administrator</string>
+    <string name="lbl_fale_conosco">Contact us</string>
+    <string name="lbl_titulo">Títle:</string>
+    <string name="lbl_descricao">Description:</string>
+    <string name="action_enviar">Send</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_login_usu">Login User</string>
+    <string name="lbl_senha">Password</string>
+    <string name="lbl_login_adm">Login Administrator</string>
+    <string name="lbl_comentarios">Customer Comments:</string>
+    <string name="lbl_escrever_comentario">Write Review:</string>
+    <string name="action_enviar_comentario">Submit Review</string>
+    <string name="action_adicionar_carrinho">Add to cart</string>
+    <string name="title_activity_teste">TesteActivity</string>
+    <string name="title_activity_detalhe">detalheActivity</string>
+    <string name="title_activity_administrador">Administrator Area</string>
+    <string name="lbl_area_admin">Administrator Area</string>
+    <string name="action_produtos">Products</string>
+    <string name="action_clientes">Customers</string>
+    <string name="action_fornecedores">Providers</string>
+    <string name="lbl_descricao_produto">Product description:</string>
+    <string name="lbl_valor_produto">Product Value:</string>
+    <string name="lbl_imagem_produto">Product Image:</string>
+    <string name="lbl_lista_produtos">List of products:</string>
+    <string name="action_salvar">Save</string>
+    <string name="title_activity_cliente">ClienteActivity</string>
+    <string name="action_cad_cliente">Customer Registration</string>
+    <string name="action_cad_produto">Product Registration</string>
+    <string name="title_activity_produto">ProdutoActivity</string>
+    <string name="title_activity_login_usu">LoginUsuActivity</string>
+
+    <string name="action_inicio">HOME</string>
+    <string name="action_calca">Pants</string>
+    <string name="action_camiseta">T-shirt</string>
+    <string name="action_sapato">Shoe</string>
+    <string name="action_atendimento">Attendance</string>
+    <string name="action_site">Access our site</string>
+    <string name="action_sobre">About</string>
+    <string name="aviso_login_sucesso">Login successfully logged!</string>
+    <string name="lbl_aviso">Notice</string>
+    <string name="lbl_login_invalido">Username or password is invalid!</string>
+    <string name="lbl_campos_invalidos">Invalid or invalid fields</string>
+    <string name="lbl_app_desenvolvido">App developed by Renato W. and Marlon</string>
+    <string name="lbl_sobre">about</string>
+    <string name="lbl_projeto">Project</string>
+    <string name="lbl_pdm">Mobile Devices Programming</string>
+    <string name="lbl_site">Site</string>
+
+    <string name="action_cadastro">New register</string>
+    <string name="title_activity_form_produto">FormProdutoActivity</string>
+    <string name="lbl_caminho_imagem">Image path</string>
+    <string name="title_activity_detalhe_produto">Product Details</string>
+    <string name="lbl_produto_add">Product added to cart!</string>
+    <string name="lbl_alterar">Change</string>
+    <string name="lbl_salvar">Save</string>
+    <string name="lbl_erro_cadastrar_prod">Error registering product</string>
+    <string name="lbl_sucesso_cadastrar_prod">Product registration successfully completed!</string>
+    <string name="lbl_erro_alterar_prod">Error changing product</string>
+    <string name="lbl_sucesso_alterar_prod">Product change successfully completed!</string>
+    <string name="lbl_confirma_delete">Do you want to delete?</string>
+    <string name="lbl_erro_excluir_prod">Error deleting product</string>
+    <string name="lbl_sucesso_excluir_prod">Product exclusion successfully completed!</string>
+    />
+    />
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/action_inicio" />
+        <item
+            android:id="@+id/nav_calca"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/action_calca" />
+        <item
+            android:id="@+id/nav_camiseta"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/action_camiseta" />
+        <item
+            android:id="@+id/nav_sapato"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/action_sapato" />
+    </group>
+
+    <item
+        android:id="@+id/nav_atendimento"
+        android:title="@string/action_atendimento">
+        <menu>
+            <item
+                android:id="@+id/nav_fale_conosco"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/lbl_fale_conosco" />
+            <item
+                android:id="@+id/nav_site"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/action_site" />
+            <item
+                android:id="@+id/nav_wv"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Web View" />
+            <item
+                android:id="@+id/nav_sobre"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="@string/action_sobre" />
+        </menu>
+    </item>
+
+</menu>
